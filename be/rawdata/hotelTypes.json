@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Khách sạn",
+    "description": "Loại hình lưu trú cung cấp các phòng riêng lẻ với nhiều tiện nghi và dịch vụ.",
+    "slug": "khach-san"
+  },
+  {
+    "id": 2,
+    "name": "Resort",
+    "description": "Khu nghỉ dưỡng rộng lớn, thường có nhiều tiện ích giải trí và thư giãn như hồ bơi, spa, sân golf.",
+    "slug": "resort"
+  },
+  {
+    "id": 3,
+    "name": "Biệt thự",
+    "description": "Nhà ở riêng biệt, thường có nhiều phòng ngủ, phòng khách, bếp, thích hợp cho nhóm hoặc gia đình lớn.",
+    "slug": "biet-thu"
+  },
+  {
+    "id": 4,
+    "name": "Căn hộ dịch vụ",
+    "description": "Căn hộ được trang bị đầy đủ tiện nghi như nhà ở, có các dịch vụ của khách sạn.",
+    "slug": "can-ho-dich-vu"
+  },
+  {
+    "id": 5,
+    "name": "Homestay",
+    "description": "Chỗ ở tại nhà dân địa phương, mang lại trải nghiệm văn hóa độc đáo.",
+    "slug": "homestay"
+  },
+  {
+    "id": 6,
+    "name": "Nhà nghỉ",
+    "description": "Loại hình lưu trú đơn giản, thường có ít tiện nghi hơn khách sạn, giá cả phải chăng.",
+    "slug": "nha-nghi"
+  }
+]

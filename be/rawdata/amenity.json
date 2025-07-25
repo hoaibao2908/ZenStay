@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Hồ bơi",
+    "icon_url": "/icons/amenities/swimming_pool.svg",
+    "image" : "/images/amenity/1.jpg",
+    "description": "Khu vực hồ bơi dành cho khách, bao gồm cả hồ bơi người lớn và trẻ em."
+  },
+  {
+    "id": 2,
+    "name": "Wi-Fi miễn phí",
+    "icon_url": "/icons/amenities/wifi.svg",
+    "image" : "/images/amenity/2.jpg",
+    "description": "Truy cập internet không dây miễn phí trong toàn bộ khuôn viên khách sạn/khu nghỉ dưỡng."
+  },
+  {
+    "id": 3,
+    "name": "Bãi đỗ xe",
+    "icon_url": "/icons/amenities/parking.svg",
+    "image" : "/images/amenity/3.jpg",
+    "description": "Chỗ đỗ xe an toàn và tiện lợi cho khách."
+  },
+  {
+    "id": 4,
+    "name": "Nhà hàng",
+    "icon_url": "/icons/amenities/restaurant.svg",
+    "image" : "/images/amenity/4.jpg",
+    "description": "Nhà hàng phục vụ các bữa ăn sáng, trưa, tối với đa dạng ẩm thực."
+  },
+  {
+    "id": 5,
+    "name": "Phòng tập Gym",
+    "icon_url": "/icons/amenities/gym.svg",
+    "image" : "/images/amenity/5.jpg",
+    "description": "Phòng tập thể dục hiện đại với đầy đủ trang thiết bị."
+  },
+  {
+    "id": 6,
+    "name": "Spa & Massage",
+    "icon_url": "/icons/amenities/spa.svg",
+    "image" : "/images/amenity/6.jpg",
+    "description": "Dịch vụ spa và massage chuyên nghiệp giúp thư giãn và phục hồi sức khỏe."
+  },
+  {
+    "id": 7,
+    "name": "Lễ tân 24/7",
+    "icon_url": "/icons/amenities/reception.svg",
+    "image" : "/images/amenity/7.jpg",
+    "description": "Dịch vụ lễ tân hoạt động 24 giờ mỗi ngày, 7 ngày trong tuần."
+  },
+  {
+    "id": 8,
+    "name": "Dịch vụ phòng",
+    "icon_url": "/icons/amenities/room_service.svg",
+    "image" : "/images/amenity/8.jpg",
+    "description": "Dịch vụ phục vụ đồ ăn và thức uống tại phòng."
+  },
+  {
+    "id": 9,
+    "name": "Trung tâm hội nghị",
+    "icon_url": "/icons/amenities/conference_room.svg",
+    "image" : "/images/amenity/9.jpg",
+    "description": "Các phòng họp và không gian sự kiện được trang bị đầy đủ."
+  },
+  {
+    "id": 10,
+    "name": "Sân chơi trẻ em",
+    "icon_url": "/icons/amenities/kids_playground.svg",
+    "image" : "/images/amenity/10.jpg",
+    "description": "Khu vực vui chơi an toàn và giải trí cho trẻ em."
+  },
+  {
+    "id": 11,
+    "name": "Xe đưa đón sân bay",
+    "icon_url": "/icons/amenities/airport_shuttle.svg",
+    "image" : "/images/amenity/11.jpg",
+    "description": "Dịch vụ đưa đón khách từ và đến sân bay."
+  },
+  {
+    "id": 12,
+    "name": "Dịch vụ giặt ủi",
+    "icon_url": "/icons/amenities/laundry.svg",
+    "image" : "/images/amenity/12.jpg",
+    "description": "Dịch vụ giặt là và ủi quần áo cho khách."
+  },
+  {
+    "id": 13,
+    "name": "Quầy Bar",
+    "icon_url": "/icons/amenities/bar.svg",
+    "image" : "/images/amenity/13.jpg",
+    "description": "Quầy bar phục vụ đa dạng đồ uống và cocktail."
+  },
+  {
+    "id": 14,
+    "name": "Điều hòa không khí",
+    "icon_url": "/icons/amenities/air_conditioning.svg",
+    "image" : "/images/amenity/14.jpg",
+    "description": "Hệ thống điều hòa không khí trong tất cả các phòng và khu vực chung."
+  },
+  {
+    "id": 15,
+    "name": "Truyền hình cáp/vệ tinh",
+    "icon_url": "/icons/amenities/cable_tv.svg",
+    "image" : "/images/amenity/15.jpg",
+    "description": "Truyền hình đa kênh với nhiều lựa chọn giải trí."
+  },
+  {
+    "id": 16,
+    "name": "Mini Bar",
+    "icon_url": "/icons/amenities/minibar.svg",
+    "image" : "/images/amenity/16.jpg",
+    "description": "Tủ lạnh nhỏ trong phòng với đồ uống và đồ ăn nhẹ."
+  },
+  {
+    "id": 17,
+    "name": "Két an toàn",
+    "icon_url": "/icons/amenities/safe.svg",
+    "image" : "/images/amenity/17.jpg",
+    "description": "Két an toàn cá nhân trong phòng để bảo vệ tài sản."
+  },
+  {
+    "id": 18,
+    "name": "Bàn làm việc",
+    "icon_url": "/icons/amenities/desk.svg",
+    "image" : "/images/amenity/18.jpg",
+    "description": "Bàn làm việc và ghế trong phòng, phù hợp cho khách công tác."
+  },
+  {
+    "id": 19,
+    "name": "Dụng cụ pha trà/cà phê",
+    "icon_url": "/icons/amenities/coffee_tea.svg",
+    "image" : "/images/amenity/19.jpg",
+    "description": "Bộ dụng cụ pha trà và cà phê có sẵn trong phòng."
+  },
+  {
+    "id": 20,
+    "name": "Ban công/Sân hiên",
+    "icon_url": "/icons/amenities/balcony.svg",
+    "image" : "/images/amenity/20.jpg",
+    "description": "Ban công hoặc sân hiên riêng với tầm nhìn đẹp."
+  }
+]

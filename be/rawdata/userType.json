@@ -1,0 +1,42 @@
+[
+  {
+    "type_name": "admin",
+    "description": "Quản trị viên hệ thống có toàn quyền truy cập và quản lý."
+  },
+  {
+    "type_name": "hotel_owner",
+    "description": "Chủ khách sạn, có quyền quản lý thông tin khách sạn và phòng."
+  },
+  {
+    "type_name": "customer",
+    "description": "Khách hàng thông thường, có quyền tìm kiếm và đặt phòng."
+  },
+  {
+    "type_name": "staff",
+    "description": "Nhân viên khách sạn, hỗ trợ các hoạt động hàng ngày."
+  },
+  {
+    "type_name": "moderator",
+    "description": "Người kiểm duyệt nội dung, duyệt bài đăng và đánh giá."
+  },
+  {
+    "type_name": "guest",
+    "description": "Khách vãng lai, chỉ có quyền xem thông tin công khai."
+  },
+  {
+    "type_name": "super_admin",
+    "description": "Quản trị viên cấp cao nhất, quản lý toàn bộ hệ thống và các admin khác."
+  },
+  {
+    "type_name": "accountant",
+    "description": "Kế toán, quản lý các giao dịch tài chính và báo cáo."
+  },
+  {
+    "type_name": "support",
+    "description": "Nhân viên hỗ trợ khách hàng, giải đáp thắc mắc và hỗ trợ kỹ thuật."
+  },
+  {
+    "type_name": "developer",
+    "description": "Nhà phát triển, có quyền truy cập và thay đổi mã nguồn."
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "booking_id": 1,
+    "transaction_id": "TXN_20250710_000001",
+    "amount": 450.00,
+    "currency": "VND",
+    "payment_method": "Credit Card",
+    "payment_status": "Success",
+    "payment_date": "2025-07-10T10:05:00Z",
+    "created_at": "2025-07-10T10:05:00Z",
+    "updated_at": "2025-07-10T10:05:00Z"
+  },
+  {
+    "id": 2,
+    "booking_id": 2,
+    "transaction_id": null,
+    "amount": 0.00,
+    "currency": "VND",
+    "payment_method": null,
+    "payment_status": "Pending",
+    "payment_date": "2025-07-15T14:30:00Z",
+    "created_at": "2025-07-15T14:30:00Z",
+    "updated_at": "2025-07-15T14:30:00Z"
+  },
+  {
+    "id": 3,
+    "booking_id": 3,
+    "transaction_id": "TXN_20250625_000002",
+    "amount": 300.50,
+    "currency": "VND",
+    "payment_method": "Momo",
+    "payment_status": "Success",
+    "payment_date": "2025-06-25T09:05:00Z",
+    "created_at": "2025-06-25T09:05:00Z",
+    "updated_at": "2025-06-25T09:05:00Z"
+  },
+  {
+    "id": 4,
+    "booking_id": 4,
+    "transaction_id": "TXN_20250701_000003",
+    "amount": 280.00,
+    "currency": "VND",
+    "payment_method": "VNPay",
+    "payment_status": "Refunded",
+    "payment_date": "2025-07-01T11:50:00Z",
+    "created_at": "2025-07-01T11:50:00Z",
+    "updated_at": "2025-07-05T10:00:00Z"
+  },
+  {
+    "id": 5,
+    "booking_id": 5,
+    "transaction_id": "TXN_20250720_000004",
+    "amount": 250.00,
+    "currency": "VND",
+    "payment_method": "Credit Card",
+    "payment_status": "Success",
+    "payment_date": "2025-07-20T11:05:00Z",
+    "created_at": "2025-07-20T11:05:00Z",
+    "updated_at": "2025-07-20T11:05:00Z"
+  },
+  {
+    "id": 6,
+    "booking_id": 15,
+    "transaction_id": "TXN_20250710_000005",
+    "amount": 100.00,
+    "currency": "VND",
+    "payment_method": "Momo",
+    "payment_status": "Pending",
+    "payment_date": "2025-07-10T14:00:00Z",
+    "created_at": "2025-07-10T14:00:00Z",
+    "updated_at": "2025-07-10T14:00:00Z"
+  }
+]

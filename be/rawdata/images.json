@@ -1,0 +1,1018 @@
+[
+  {
+    "id": 1,
+    "image_url": "/images/hotels/saigon_xanh_1.jpg",
+    "alt_text": "Mặt tiền khách sạn Sài Gòn Xanh",
+    "description": "Ảnh mặt tiền khách sạn Sài Gòn Xanh."
+  },
+  {
+    "id": 2,
+    "image_url": "/images/hotels/saigon_xanh_2.jpg",
+    "alt_text": "Phòng ngủ view sông Sài Gòn",
+    "description": "Phòng ngủ deluxe với tầm nhìn ra sông Sài Gòn."
+  },
+  {
+    "id": 3,
+    "image_url": "/images/hotels/saigon_xanh_3.jpg",
+    "alt_text": "Hồ bơi khách sạn Sài Gòn Xanh",
+    "description": "Khu vực hồ bơi ngoài trời của khách sạn."
+  },
+  {
+    "id": 4,
+    "image_url": "/images/hotels/thao_dien_resort_1.jpg",
+    "alt_text": "Tổng quan Resort Thảo Điền",
+    "description": "Toàn cảnh Resort Thảo Điền từ trên cao."
+  },
+  {
+    "id": 5,
+    "image_url": "/images/hotels/thao_dien_resort_2.jpg",
+    "alt_text": "Hồ bơi vô cực Resort Thảo Điền",
+    "description": "Hồ bơi vô cực nhìn ra khung cảnh thiên nhiên."
+  },
+  {
+    "id": 6,
+    "image_url": "/images/hotels/thao_dien_resort_3.jpg",
+    "alt_text": "Spa và phòng trị liệu Resort Thảo Điền",
+    "description": "Phòng spa hiện đại và yên tĩnh."
+  },
+  {
+    "id": 7,
+    "image_url": "/images/hotels/an_phu_villa_1.jpg",
+    "alt_text": "Mặt tiền Biệt thự An Phú",
+    "description": "Mặt tiền biệt thự An Phú với sân vườn."
+  },
+  {
+    "id": 8,
+    "image_url": "/images/hotels/an_phu_villa_2.jpg",
+    "alt_text": "Phòng khách Biệt thự An Phú",
+    "description": "Phòng khách rộng rãi, sang trọng của biệt thự."
+  },
+  {
+    "id": 9,
+    "image_url": "/images/hotels/an_phu_villa_3.jpg",
+    "alt_text": "Bếp Biệt thự An Phú",
+    "description": "Khu vực bếp hiện đại và đầy đủ tiện nghi."
+  },
+  {
+    "id": 10,
+    "image_url": "/images/hotels/vinhome_apartment_1.jpg",
+    "alt_text": "Phòng khách Căn hộ dịch vụ Vinhome",
+    "description": "Phòng khách căn hộ dịch vụ Vinhome."
+  },
+  {
+    "id": 11,
+    "image_url": "/images/hotels/vinhome_apartment_2.jpg",
+    "alt_text": "Phòng ngủ Căn hộ dịch vụ Vinhome",
+    "description": "Phòng ngủ tiện nghi trong căn hộ."
+  },
+  {
+    "id": 12,
+    "image_url": "/images/hotels/vinhome_apartment_3.jpg",
+    "alt_text": "View thành phố từ Căn hộ dịch vụ Vinhome",
+    "description": "Tầm nhìn từ ban công căn hộ ra thành phố."
+  },
+  {
+    "id": 13,
+    "image_url": "/images/hotels/cotri_homestay_1.jpg",
+    "alt_text": "Bên ngoài Homestay Cổ Trì",
+    "description": "Ngôi nhà cổ kính của homestay."
+  },
+  {
+    "id": 14,
+    "image_url": "/images/hotels/cotri_homestay_2.jpg",
+    "alt_text": "Phòng ngủ Homestay Cổ Trì",
+    "description": "Phòng ngủ giản dị, ấm cúng của homestay."
+  },
+  {
+    "id": 15,
+    "image_url": "/images/hotels/cotri_homestay_3.jpg",
+    "alt_text": "Góc sân vườn Homestay Cổ Trì",
+    "description": "Góc sân vườn nhỏ xinh của homestay."
+  },
+  {
+    "id": 16,
+    "image_url": "/images/hotels/binh_an_motel_1.jpg",
+    "alt_text": "Mặt tiền Nhà nghỉ Bình An",
+    "description": "Mặt tiền đơn giản của nhà nghỉ."
+  },
+  {
+    "id": 17,
+    "image_url": "/images/hotels/binh_an_motel_2.jpg",
+    "alt_text": "Phòng ngủ Nhà nghỉ Bình An",
+    "description": "Phòng ngủ cơ bản, sạch sẽ của nhà nghỉ."
+  },
+  {
+    "id": 18,
+    "image_url": "/images/hotels/majestic_saigon_1.jpg",
+    "alt_text": "Khách sạn Majestic Sài Gòn",
+    "description": "Mặt tiền tráng lệ của khách sạn Majestic."
+  },
+  {
+    "id": 19,
+    "image_url": "/images/hotels/majestic_saigon_2.jpg",
+    "alt_text": "Sảnh chờ Majestic Sài Gòn",
+    "description": "Sảnh chính sang trọng với kiến trúc cổ điển."
+  },
+  {
+    "id": 20,
+    "image_url": "/images/hotels/majestic_saigon_3.jpg",
+    "alt_text": "Nhà hàng Majestic Sài Gòn",
+    "description": "Khu vực nhà hàng với tầm nhìn ra sông."
+  },
+  {
+    "id": 21,
+    "image_url": "/images/hotels/park_hyatt_1.jpg",
+    "alt_text": "Mặt tiền Park Hyatt Saigon",
+    "description": "Mặt tiền sang trọng của Park Hyatt."
+  },
+  {
+    "id": 22,
+    "image_url": "/images/hotels/park_hyatt_2.jpg",
+    "alt_text": "Hồ bơi Park Hyatt Saigon",
+    "description": "Hồ bơi ngoài trời giữa lòng khách sạn."
+  },
+  {
+    "id": 23,
+    "image_url": "/images/hotels/park_hyatt_3.jpg",
+    "alt_text": "Phòng Suite Park Hyatt Saigon",
+    "description": "Phòng suite cao cấp với nội thất tinh tế."
+  },
+  {
+    "id": 24,
+    "image_url": "/images/hotels/rex_hotel_1.jpg",
+    "alt_text": "Khách sạn Rex Sài Gòn",
+    "description": "Toàn cảnh khách sạn Rex."
+  },
+  {
+    "id": 25,
+    "image_url": "/images/hotels/rex_hotel_2.jpg",
+    "alt_text": "Sân thượng Rex Hotel",
+    "description": "Khu vực sân thượng và bar của Rex Hotel."
+  },
+  {
+    "id": 26,
+    "image_url": "/images/hotels/rex_hotel_3.jpg",
+    "alt_text": "Phòng Hội nghị Rex Hotel",
+    "description": "Phòng hội nghị sang trọng, tiện nghi."
+  },
+  {
+    "id": 27,
+    "image_url": "/images/hotels/caravelle_saigon_1.jpg",
+    "alt_text": "Khách sạn Caravelle Saigon",
+    "description": "Mặt tiền khách sạn Caravelle."
+  },
+  {
+    "id": 28,
+    "image_url": "/images/hotels/caravelle_saigon_2.jpg",
+    "alt_text": "Nhà hàng Nineteen Caravelle Saigon",
+    "description": "Nhà hàng buffet nổi tiếng tại Caravelle."
+  },
+  {
+    "id": 29,
+    "image_url": "/images/hotels/caravelle_saigon_3.jpg",
+    "alt_text": "Phòng Deluxe Caravelle Saigon",
+    "description": "Phòng ngủ Deluxe với tầm nhìn đẹp."
+  },
+  {
+    "id": 30,
+    "image_url": "/images/hotels/liberty_citypoint_1.jpg",
+    "alt_text": "Mặt tiền Liberty Central Saigon Citypoint",
+    "description": "Kiến trúc hiện đại của Liberty Central Citypoint."
+  },
+  {
+    "id": 31,
+    "image_url": "/images/hotels/liberty_citypoint_2.jpg",
+    "alt_text": "Hồ bơi vô cực Liberty Central Citypoint",
+    "description": "Hồ bơi vô cực trên tầng thượng."
+  },
+  {
+    "id": 32,
+    "image_url": "/images/hotels/liberty_citypoint_3.jpg",
+    "alt_text": "Phòng tập Gym Liberty Central Citypoint",
+    "description": "Phòng tập gym đầy đủ thiết bị."
+  },
+  {
+    "id": 33,
+    "image_url": "/images/hotels/the_reverie_saigon_1.jpg",
+    "alt_text": "Sảnh The Reverie Saigon",
+    "description": "Sảnh chính của khách sạn The Reverie với nội thất xa hoa."
+  },
+  {
+    "id": 34,
+    "image_url": "/images/hotels/the_reverie_saigon_2.jpg",
+    "alt_text": "Phòng Deluxe The Reverie Saigon",
+    "description": "Phòng ngủ Deluxe với thiết kế độc đáo."
+  },
+  {
+    "id": 35,
+    "image_url": "/images/hotels/the_reverie_saigon_3.jpg",
+    "alt_text": "Hồ bơi The Reverie Saigon",
+    "description": "Khu vực hồ bơi thư giãn của The Reverie."
+  },
+  {
+    "id": 36,
+    "image_url": "/images/hotels/pullman_saigon_1.jpg",
+    "alt_text": "Khách sạn Pullman Saigon Centre",
+    "description": "Mặt tiền khách sạn Pullman Saigon Centre."
+  },
+  {
+    "id": 37,
+    "image_url": "/images/hotels/pullman_saigon_2.jpg",
+    "alt_text": "Phòng khách sạn Pullman Saigon Centre",
+    "description": "Phòng ngủ hiện đại tại Pullman Saigon Centre."
+  },
+  {
+    "id": 38,
+    "image_url": "/images/hotels/pullman_saigon_3.jpg",
+    "alt_text": "Quầy Bar trên sân thượng Pullman Saigon Centre",
+    "description": "Sky bar với tầm nhìn thành phố."
+  },
+  {
+    "id": 39,
+    "image_url": "/images/hotels/new_world_saigon_1.jpg",
+    "alt_text": "Khách sạn New World Saigon",
+    "description": "Mặt tiền khách sạn New World Saigon."
+  },
+  {
+    "id": 40,
+    "image_url": "/images/hotels/new_world_saigon_2.jpg",
+    "alt_text": "Hồ bơi New World Saigon",
+    "description": "Khu vực hồ bơi lớn của New World Saigon."
+  },
+  {
+    "id": 41,
+    "image_url": "/images/hotels/new_world_saigon_3.jpg",
+    "alt_text": "Sảnh New World Saigon",
+    "description": "Sảnh đón khách sang trọng."
+  },
+  {
+    "id": 42,
+    "image_url": "/images/hotels/equatorial_saigon_1.jpg",
+    "alt_text": "Khách sạn Equatorial Saigon",
+    "description": "Mặt tiền khách sạn Equatorial."
+  },
+  {
+    "id": 43,
+    "image_url": "/images/hotels/equatorial_saigon_2.jpg",
+    "alt_text": "Hồ bơi Equatorial Saigon",
+    "description": "Hồ bơi ngoài trời rộng rãi."
+  },
+  {
+    "id": 44,
+    "image_url": "/images/hotels/equatorial_saigon_3.jpg",
+    "alt_text": "Phòng họp Equatorial Saigon",
+    "description": "Phòng họp tiêu chuẩn quốc tế."
+  },
+  {
+    "id": 45,
+    "image_url": "/images/hotels/alcove_hotel_1.jpg",
+    "alt_text": "Khách sạn The Alcove Library Hotel",
+    "description": "Mặt tiền The Alcove Library Hotel."
+  },
+  {
+    "id": 46,
+    "image_url": "/images/hotels/alcove_hotel_2.jpg",
+    "alt_text": "Thư viện The Alcove Library Hotel",
+    "description": "Khu vực thư viện độc đáo của khách sạn."
+  },
+  {
+    "id": 47,
+    "image_url": "/images/hotels/alcove_hotel_3.jpg",
+    "alt_text": "Phòng ngủ The Alcove Library Hotel",
+    "description": "Phòng ngủ ấm cúng, thiết kế theo phong cách riêng."
+  },
+  {
+    "id": 48,
+    "image_url": "/images/hotels/bong_sen_saigon_1.jpg",
+    "alt_text": "Khách sạn Bông Sen Sài Gòn",
+    "description": "Mặt tiền khách sạn Bông Sen."
+  },
+  {
+    "id": 49,
+    "image_url": "/images/hotels/bong_sen_saigon_2.jpg",
+    "alt_text": "Phòng ăn Bông Sen Sài Gòn",
+    "description": "Phòng ăn với các món ăn Việt Nam truyền thống."
+  },
+  {
+    "id": 50,
+    "image_url": "/images/hotels/bong_sen_saigon_3.jpg",
+    "alt_text": "Sảnh đón khách Bông Sen Sài Gòn",
+    "description": "Sảnh đón khách với phong cách truyền thống."
+  },
+  {
+    "id": 51,
+    "image_url": "/images/hotels/lotte_saigon_1.jpg",
+    "alt_text": "Khách sạn Lotte Saigon",
+    "description": "Toàn cảnh khách sạn Lotte Saigon."
+  },
+  {
+    "id": 52,
+    "image_url": "/images/hotels/lotte_saigon_2.jpg",
+    "alt_text": "Phòng Club Lotte Saigon",
+    "description": "Phòng Club cao cấp với tầm nhìn sông."
+  },
+  {
+    "id": 53,
+    "image_url": "/images/hotels/lotte_saigon_3.jpg",
+    "alt_text": "Hồ bơi Lotte Saigon",
+    "description": "Hồ bơi ngoài trời tại Lotte Saigon."
+  },
+  {
+    "id": 54,
+    "image_url": "/images/hotels/liberty_riverside_1.jpg",
+    "alt_text": "Khách sạn Liberty Central Saigon Riverside",
+    "description": "Mặt tiền khách sạn Liberty Central Riverside."
+  },
+  {
+    "id": 55,
+    "image_url": "/images/hotels/liberty_riverside_2.jpg",
+    "alt_text": "Hồ bơi vô cực Liberty Central Riverside",
+    "description": "Hồ bơi vô cực với tầm nhìn ra sông Sài Gòn."
+  },
+  {
+    "id": 56,
+    "image_url": "/images/hotels/liberty_riverside_3.jpg",
+    "alt_text": "Phòng Standard Liberty Central Riverside",
+    "description": "Phòng Standard tiện nghi."
+  },
+  {
+    "id": 57,
+    "image_url": "/images/hotels/sofitel_saigon_1.jpg",
+    "alt_text": "Khách sạn Sofitel Saigon Plaza",
+    "description": "Mặt tiền khách sạn Sofitel Saigon Plaza."
+  },
+  {
+    "id": 58,
+    "image_url": "/images/hotels/sofitel_saigon_2.jpg",
+    "alt_text": "Sảnh Sofitel Saigon Plaza",
+    "description": "Sảnh đón khách sang trọng, cổ điển."
+  },
+  {
+    "id": 59,
+    "image_url": "/images/hotels/sofitel_saigon_3.jpg",
+    "alt_text": "Phòng Superior Sofitel Saigon Plaza",
+    "description": "Phòng Superior với ban công."
+  },
+  {
+    "id": 60,
+    "image_url": "/images/hotels/the_myst_dong_khoi_1.jpg",
+    "alt_text": "Mặt tiền The Myst Dong Khoi",
+    "description": "Kiến trúc độc đáo của The Myst Dong Khoi."
+  },
+  {
+    "id": 61,
+    "image_url": "/images/hotels/the_myst_dong_khoi_2.jpg",
+    "alt_text": "Hồ bơi trên sân thượng The Myst Dong Khoi",
+    "description": "Hồ bơi và khu vực thư giãn trên cao."
+  },
+  {
+    "id": 62,
+    "image_url": "/images/hotels/the_myst_dong_khoi_3.jpg",
+    "alt_text": "Thiết kế nội thất The Myst Dong Khoi",
+    "description": "Chi tiết thiết kế nội thất đậm chất Việt Nam."
+  },
+  {
+    "id": 63,
+    "image_url": "/images/hotels/intercontinental_saigon_1.jpg",
+    "alt_text": "Khách sạn InterContinental Saigon",
+    "description": "Mặt tiền khách sạn InterContinental Saigon."
+  },
+  {
+    "id": 64,
+    "image_url": "/images/hotels/intercontinental_saigon_2.jpg",
+    "alt_text": "Sảnh InterContinental Saigon",
+    "description": "Sảnh đón khách rộng lớn và sang trọng."
+  },
+  {
+    "id": 65,
+    "image_url": "/images/hotels/intercontinental_saigon_3.jpg",
+    "alt_text": "Nhà hàng InterContinental Saigon",
+    "description": "Khu vực nhà hàng với nhiều lựa chọn ẩm thực."
+  },
+  {
+    "id": 66,
+    "image_url": "/images/hotels/sheraton_saigon_1.jpg",
+    "alt_text": "Khách sạn Sheraton Saigon",
+    "description": "Mặt tiền khách sạn Sheraton Saigon."
+  },
+  {
+    "id": 67,
+    "image_url": "/images/hotels/sheraton_saigon_2.jpg",
+    "alt_text": "Phòng Grand Tower Sheraton Saigon",
+    "description": "Phòng Grand Tower với view thành phố."
+  },
+  {
+    "id": 68,
+    "image_url": "/images/hotels/sheraton_saigon_3.jpg",
+    "alt_text": "Hồ bơi Sheraton Saigon",
+    "description": "Hồ bơi ngoài trời thư giãn."
+  },
+  {
+    "id": 69,
+    "image_url": "/images/hotels/grand_saigon_1.jpg",
+    "alt_text": "Khách sạn Grand Saigon",
+    "description": "Kiến trúc cổ điển của Grand Saigon."
+  },
+  {
+    "id": 70,
+    "image_url": "/images/hotels/grand_saigon_2.jpg",
+    "alt_text": "Sảnh Grand Saigon",
+    "description": "Sảnh khách sạn với thiết kế châu Âu."
+  },
+  {
+    "id": 71,
+    "image_url": "/images/hotels/grand_saigon_3.jpg",
+    "alt_text": "Nhà hàng Grand Saigon",
+    "description": "Khu vực nhà hàng phục vụ món ăn ngon."
+  },
+  {
+    "id": 72,
+    "image_url": "/images/hotels/continental_saigon_1.jpg",
+    "alt_text": "Khách sạn Continental Saigon",
+    "description": "Mặt tiền lịch sử của Continental Saigon."
+  },
+  {
+    "id": 73,
+    "image_url": "/images/hotels/continental_saigon_2.jpg",
+    "alt_text": "Sân trong Continental Saigon",
+    "description": "Sân trong yên bình của khách sạn."
+  },
+  {
+    "id": 74,
+    "image_url": "/images/hotels/continental_saigon_3.jpg",
+    "alt_text": "Phòng Colonial Continental Saigon",
+    "description": "Phòng nghỉ với phong cách thuộc địa Pháp."
+  },
+  {
+    "id": 75,
+    "image_url": "/images/hotels/nikko_saigon_1.jpg",
+    "alt_text": "Khách sạn Nikko Saigon",
+    "description": "Mặt tiền khách sạn Nikko Saigon."
+  },
+  {
+    "id": 76,
+    "image_url": "/images/hotels/nikko_saigon_2.jpg",
+    "alt_text": "Phòng Executive Nikko Saigon",
+    "description": "Phòng Executive với tầm nhìn thành phố."
+  },
+  {
+    "id": 77,
+    "image_url": "/images/hotels/nikko_saigon_3.jpg",
+    "alt_text": "Hồ bơi Nikko Saigon",
+    "description": "Hồ bơi ngoài trời thư giãn."
+  },
+  {
+    "id": 78,
+    "image_url": "/images/hotels/renaissance_riverside_1.jpg",
+    "alt_text": "Khách sạn Renaissance Riverside Hotel Saigon",
+    "description": "Mặt tiền Renaissance Riverside."
+  },
+  {
+    "id": 79,
+    "image_url": "/images/hotels/renaissance_riverside_2.jpg",
+    "alt_text": "Phòng Deluxe Renaissance Riverside",
+    "description": "Phòng Deluxe với tầm nhìn sông."
+  },
+  {
+    "id": 80,
+    "image_url": "/images/hotels/renaissance_riverside_3.jpg",
+    "alt_text": "Hồ bơi Renaissance Riverside",
+    "description": "Hồ bơi ngoài trời tại Renaissance Riverside."
+  },
+  {
+    "id": 81,
+    "image_url": "/images/hotels/bay_hotel_1.jpg",
+    "alt_text": "Mặt tiền Bay Hotel Ho Chi Minh",
+    "description": "Kiến trúc độc đáo của Bay Hotel."
+  },
+  {
+    "id": 82,
+    "image_url": "/images/hotels/bay_hotel_2.jpg",
+    "alt_text": "Hồ bơi trên sân thượng Bay Hotel",
+    "description": "Hồ bơi vô cực với tầm nhìn ra thành phố."
+  },
+  {
+    "id": 83,
+    "image_url": "/images/hotels/bay_hotel_3.jpg",
+    "alt_text": "Phòng nghỉ Bay Hotel",
+    "description": "Phòng ngủ hiện đại và tiện nghi."
+  },
+  {
+    "id": 84,
+    "image_url": "/images/hotels/le_meridien_saigon_1.jpg",
+    "alt_text": "Khách sạn Le Méridien Saigon",
+    "description": "Mặt tiền khách sạn Le Méridien."
+  },
+  {
+    "id": 85,
+    "image_url": "/images/hotels/le_meridien_saigon_2.jpg",
+    "alt_text": "Phòng River View Le Méridien Saigon",
+    "description": "Phòng khách sạn với tầm nhìn sông tuyệt đẹp."
+  },
+  {
+    "id": 86,
+    "image_url": "/images/hotels/le_meridien_saigon_3.jpg",
+    "alt_text": "Hồ bơi Le Méridien Saigon",
+    "description": "Hồ bơi trong nhà tại Le Méridien."
+  },
+  {
+    "id": 87,
+    "image_url": "/images/hotels/norfolk_mansion_1.jpg",
+    "alt_text": "Mặt tiền Norfolk Mansion",
+    "description": "Toàn cảnh tòa nhà Norfolk Mansion."
+  },
+  {
+    "id": 88,
+    "image_url": "/images/hotels/norfolk_mansion_2.jpg",
+    "alt_text": "Căn hộ Norfolk Mansion",
+    "description": "Phòng khách căn hộ dịch vụ Norfolk Mansion."
+  },
+  {
+    "id": 89,
+    "image_url": "/images/hotels/norfolk_mansion_3.jpg",
+    "alt_text": "Phòng ngủ Norfolk Mansion",
+    "description": "Phòng ngủ ấm cúng trong căn hộ."
+  },
+  {
+    "id": 90,
+    "image_url": "/images/hotels/eden_star_1.jpg",
+    "alt_text": "Khách sạn Eden Star Saigon Hotel",
+    "description": "Mặt tiền khách sạn Eden Star."
+  },
+  {
+    "id": 91,
+    "image_url": "/images/hotels/eden_star_2.jpg",
+    "alt_text": "Hồ bơi trên sân thượng Eden Star",
+    "description": "Hồ bơi tầng thượng với tầm nhìn thành phố."
+  },
+  {
+    "id": 92,
+    "image_url": "/images/hotels/eden_star_3.jpg",
+    "alt_text": "Phòng Superior Eden Star",
+    "description": "Phòng Superior tiện nghi."
+  },
+  {
+    "id": 93,
+    "image_url": "/images/hotels/muong_thanh_luxury_1.jpg",
+    "alt_text": "Khách sạn Muong Thanh Luxury Saigon Hotel",
+    "description": "Mặt tiền Muong Thanh Luxury."
+  },
+  {
+    "id": 94,
+    "image_url": "/images/hotels/muong_thanh_luxury_2.jpg",
+    "alt_text": "Sảnh Muong Thanh Luxury",
+    "description": "Sảnh đón khách rộng lớn và sang trọng."
+  },
+  {
+    "id": 95,
+    "image_url": "/images/hotels/muong_thanh_luxury_3.jpg",
+    "alt_text": "Hồ bơi Muong Thanh Luxury",
+    "description": "Hồ bơi trong nhà của khách sạn."
+  },
+  {
+    "id": 96,
+    "image_url": "/images/hotels/ramana_saigon_1.jpg",
+    "alt_text": "Khách sạn Ramana Saigon",
+    "description": "Mặt tiền khách sạn Ramana Saigon."
+  },
+  {
+    "id": 97,
+    "image_url": "/images/hotels/ramana_saigon_2.jpg",
+    "alt_text": "Hồ bơi ngoài trời Ramana Saigon",
+    "description": "Khu vực hồ bơi thư giãn."
+  },
+  {
+    "id": 98,
+    "image_url": "/images/hotels/ramana_saigon_3.jpg",
+    "alt_text": "Phòng Deluxe Ramana Saigon",
+    "description": "Phòng Deluxe với cửa sổ lớn."
+  },
+  {
+    "id": 99,
+    "image_url": "/images/hotels/aristo_hotel_1.jpg",
+    "alt_text": "Mặt tiền Aristo Hotel",
+    "description": "Kiến trúc cổ điển của Aristo Hotel."
+  },
+  {
+    "id": 100,
+    "image_url": "/images/hotels/aristo_hotel_2.jpg",
+    "alt_text": "Phòng Standard Aristo Hotel",
+    "description": "Phòng ngủ tiêu chuẩn của Aristo Hotel."
+  },
+  {
+    "id": 101,
+    "image_url": "/images/hotels/aristo_hotel_3.jpg",
+    "alt_text": "Nhà hàng Aristo Hotel",
+    "description": "Nhà hàng phục vụ ẩm thực Á-Âu."
+  },
+  {
+    "id": 102,
+    "image_url": "/images/hotels/tan_son_nhat_hotel_1.jpg",
+    "alt_text": "Khách sạn Tan Son Nhat Hotel",
+    "description": "Mặt tiền khách sạn Tan Son Nhat Hotel."
+  },
+  {
+    "id": 103,
+    "image_url": "/images/hotels/tan_son_nhat_hotel_2.jpg",
+    "alt_text": "Phòng Deluxe Tan Son Nhat Hotel",
+    "description": "Phòng ngủ Deluxe rộng rãi."
+  },
+  {
+    "id": 104,
+    "image_url": "/images/hotels/tan_son_nhat_hotel_3.jpg",
+    "alt_text": "Khu vực sảnh Tan Son Nhat Hotel",
+    "description": "Sảnh đón khách sang trọng."
+  },
+  {
+    "id": 105,
+    "image_url": "/images/hotels/novotel_saigon_1.jpg",
+    "alt_text": "Khách sạn Novotel Saigon Centre",
+    "description": "Mặt tiền khách sạn Novotel Saigon Centre."
+  },
+  {
+    "id": 106,
+    "image_url": "/images/hotels/novotel_saigon_2.jpg",
+    "alt_text": "Phòng Executive Novotel Saigon",
+    "description": "Phòng Executive với tầm nhìn thành phố."
+  },
+  {
+    "id": 107,
+    "image_url": "/images/hotels/novotel_saigon_3.jpg",
+    "alt_text": "Hồ bơi Novotel Saigon",
+    "description": "Hồ bơi ngoài trời thư giãn."
+  },
+  {
+    "id": 108,
+    "image_url": "/images/hotels/lavender_central_1.jpg",
+    "alt_text": "Khách sạn Lavender Central Hotel",
+    "description": "Mặt tiền Lavender Central Hotel."
+  },
+  {
+    "id": 109,
+    "image_url": "/images/hotels/lavender_central_2.jpg",
+    "alt_text": "Phòng ngủ Lavender Central",
+    "description": "Phòng ngủ tiêu chuẩn của khách sạn."
+  },
+  {
+    "id": 110,
+    "image_url": "/images/hotels/lavender_central_3.jpg",
+    "alt_text": "Nhà hàng Lavender Central",
+    "description": "Khu vực ăn sáng của khách sạn."
+  },
+  {
+    "id": 111,
+    "image_url": "/images/hotels/royal_hotel_saigon_1.jpg",
+    "alt_text": "Khách sạn Royal Hotel Saigon",
+    "description": "Mặt tiền khách sạn Royal Hotel Saigon."
+  },
+  {
+    "id": 112,
+    "image_url": "/images/hotels/royal_hotel_saigon_2.jpg",
+    "alt_text": "Sảnh Royal Hotel Saigon",
+    "description": "Sảnh đón khách với thiết kế cổ điển."
+  },
+  {
+    "id": 113,
+    "image_url": "/images/hotels/royal_hotel_saigon_3.jpg",
+    "alt_text": "Phòng Royal Hotel Saigon",
+    "description": "Phòng ngủ với nội thất sang trọng."
+  },
+  {
+    "id": 114,
+    "image_url": "/images/hotels/oscar_saigon_1.jpg",
+    "alt_text": "Khách sạn Oscar Saigon Hotel",
+    "description": "Mặt tiền Oscar Saigon Hotel."
+  },
+  {
+    "id": 115,
+    "image_url": "/images/hotels/oscar_saigon_2.jpg",
+    "alt_text": "Phòng ngủ Oscar Saigon",
+    "description": "Phòng ngủ tiện nghi của khách sạn."
+  },
+  {
+    "id": 116,
+    "image_url": "/images/hotels/oscar_saigon_3.jpg",
+    "alt_text": "Nhà hàng Oscar Saigon",
+    "description": "Khu vực nhà hàng buffet."
+  },
+  {
+    "id": 117,
+    "image_url": "/images/hotels/victory_hotel_saigon_1.jpg",
+    "alt_text": "Khách sạn Victory Hotel Saigon",
+    "description": "Mặt tiền khách sạn Victory Hotel Saigon."
+  },
+  {
+    "id": 118,
+    "image_url": "/images/hotels/victory_hotel_saigon_2.jpg",
+    "alt_text": "Phòng ngủ Victory Hotel Saigon",
+    "description": "Phòng ngủ cơ bản và sạch sẽ."
+  },
+  {
+    "id": 119,
+    "image_url": "/images/hotels/victory_hotel_saigon_3.jpg",
+    "alt_text": "Sảnh Victory Hotel Saigon",
+    "description": "Sảnh đón khách đơn giản."
+  },
+  {
+    "id": 120,
+    "image_url": "/images/hotels/a_em_phan_boi_chau_1.jpg",
+    "alt_text": "Khách sạn A & Em Phan Boi Chau",
+    "description": "Mặt tiền A & Em Phan Boi Chau."
+  },
+  {
+    "id": 121,
+    "image_url": "/images/hotels/a_em_phan_boi_chau_2.jpg",
+    "alt_text": "Phòng Deluxe A & Em Phan Boi Chau",
+    "description": "Phòng Deluxe với thiết kế hiện đại."
+  },
+  {
+    "id": 122,
+    "image_url": "/images/hotels/a_em_phan_boi_chau_3.jpg",
+    "alt_text": "Nhà hàng A & Em Phan Boi Chau",
+    "description": "Khu vực nhà hàng sang trọng."
+  },
+  {
+    "id": 123,
+    "image_url": "/images/hotels/adora_hotel_1.jpg",
+    "alt_text": "Khách sạn Adora Hotel",
+    "description": "Mặt tiền khách sạn Adora Hotel."
+  },
+  {
+    "id": 124,
+    "image_url": "/images/hotels/adora_hotel_2.jpg",
+    "alt_text": "Phòng ngủ Adora Hotel",
+    "description": "Phòng ngủ tiện nghi của khách sạn."
+  },
+  {
+    "id": 125,
+    "image_url": "/images/hotels/adora_hotel_3.jpg",
+    "alt_text": "Sảnh Adora Hotel",
+    "description": "Sảnh đón khách hiện đại."
+  },
+  {
+    "id": 126,
+    "image_url": "/images/hotels/windsor_plaza_1.jpg",
+    "alt_text": "Khách sạn Windsor Plaza Hotel",
+    "description": "Mặt tiền Windsor Plaza Hotel."
+  },
+  {
+    "id": 127,
+    "image_url": "/images/hotels/windsor_plaza_2.jpg",
+    "alt_text": "Hồ bơi trên sân thượng Windsor Plaza",
+    "description": "Hồ bơi vô cực với tầm nhìn thành phố."
+  },
+  {
+    "id": 128,
+    "image_url": "/images/hotels/windsor_plaza_3.jpg",
+    "alt_text": "Phòng ngủ Windsor Plaza Hotel",
+    "description": "Phòng ngủ sang trọng của khách sạn."
+  },
+  {
+    "id": 129,
+    "image_url": "/images/hotels/parkroyal_saigon_1.jpg",
+    "alt_text": "Khách sạn Parkroyal Saigon",
+    "description": "Mặt tiền Parkroyal Saigon."
+  },
+  {
+    "id": 130,
+    "image_url": "/images/hotels/parkroyal_saigon_2.jpg",
+    "alt_text": "Phòng Deluxe Parkroyal Saigon",
+    "description": "Phòng Deluxe tiện nghi."
+  },
+  {
+    "id": 131,
+    "image_url": "/images/hotels/parkroyal_saigon_3.jpg",
+    "alt_text": "Hồ bơi Parkroyal Saigon",
+    "description": "Hồ bơi ngoài trời thư giãn."
+  },
+  {
+    "id": 132,
+    "image_url": "/images/hotels/fusion_suites_saigon_1.jpg",
+    "alt_text": "Mặt tiền Fusion Suites Saigon",
+    "description": "Kiến trúc hiện đại của Fusion Suites Saigon."
+  },
+  {
+    "id": 133,
+    "image_url": "/images/hotels/fusion_suites_saigon_2.jpg",
+    "alt_text": "Phòng Suite Fusion Suites Saigon",
+    "description": "Phòng suite với không gian sống rộng rãi."
+  },
+  {
+    "id": 134,
+    "image_url": "/images/hotels/fusion_suites_saigon_3.jpg",
+    "alt_text": "Bếp nhỏ Fusion Suites Saigon",
+    "description": "Khu vực bếp nhỏ tiện lợi trong phòng suite."
+  },
+  {
+    "id": 135,
+    "image_url": "/images/hotels/silverland_charner_1.jpg",
+    "alt_text": "Khách sạn Silverland Charner",
+    "description": "Mặt tiền khách sạn Silverland Charner."
+  },
+  {
+    "id": 136,
+    "image_url": "/images/hotels/silverland_charner_2.jpg",
+    "alt_text": "Sảnh Silverland Charner",
+    "description": "Sảnh đón khách với thiết kế Pháp cổ."
+  },
+  {
+    "id": 137,
+    "image_url": "/images/hotels/silverland_charner_3.jpg",
+    "alt_text": "Phòng ngủ Silverland Charner",
+    "description": "Phòng ngủ ấm cúng và sang trọng."
+  },
+  {
+    "id": 138,
+    "image_url": "/images/hotels/lotus_central_1.jpg",
+    "alt_text": "Khách sạn Lotus Central Hotel",
+    "description": "Mặt tiền Lotus Central Hotel."
+  },
+  {
+    "id": 139,
+    "image_url": "/images/hotels/lotus_central_2.jpg",
+    "alt_text": "Phòng ngủ Lotus Central",
+    "description": "Phòng ngủ tiện nghi của khách sạn."
+  },
+  {
+    "id": 140,
+    "image_url": "/images/hotels/lotus_central_3.jpg",
+    "alt_text": "Khu vực ăn sáng Lotus Central",
+    "description": "Khu vực ăn sáng của khách sạn."
+  },
+  {
+    "id": 141,
+    "image_url": "/images/hotels/ruby_hotel_1.jpg",
+    "alt_text": "Khách sạn Ruby Hotel",
+    "description": "Mặt tiền Ruby Hotel."
+  },
+  {
+    "id": 142,
+    "image_url": "/images/hotels/ruby_hotel_2.jpg",
+    "alt_text": "Phòng ngủ Ruby Hotel",
+    "description": "Phòng ngủ cơ bản, giá cả phải chăng."
+  },
+  {
+    "id": 143,
+    "image_url": "/images/hotels/ruby_hotel_3.jpg",
+    "alt_text": "Sảnh Ruby Hotel",
+    "description": "Sảnh đón khách nhỏ gọn."
+  },
+  {
+    "id": 144,
+    "image_url": "/images/hotels/sunshine_hotel_saigon_1.jpg",
+    "alt_text": "Khách sạn Sunshine Hotel Saigon",
+    "description": "Mặt tiền Sunshine Hotel Saigon."
+  },
+  {
+    "id": 145,
+    "image_url": "/images/hotels/sunshine_hotel_saigon_2.jpg",
+    "alt_text": "Phòng ngủ Sunshine Hotel Saigon",
+    "description": "Phòng ngủ thoải mái của khách sạn."
+  },
+  {
+    "id": 146,
+    "image_url": "/images/hotels/sunshine_hotel_saigon_3.jpg",
+    "alt_text": "Khu vực tiếp khách Sunshine Hotel Saigon",
+    "description": "Khu vực tiếp khách chung."
+  },
+  {
+    "id": 147,
+    "image_url": "/images/hotels/vissai_saigon_1.jpg",
+    "alt_text": "Khách sạn Vissai Saigon Hotel",
+    "description": "Mặt tiền Vissai Saigon Hotel."
+  },
+  {
+    "id": 148,
+    "image_url": "/images/hotels/vissai_saigon_2.jpg",
+    "alt_text": "Phòng Deluxe Vissai Saigon",
+    "description": "Phòng Deluxe rộng rãi."
+  },
+  {
+    "id": 149,
+    "image_url": "/images/hotels/vissai_saigon_3.jpg",
+    "alt_text": "Hồ bơi Vissai Saigon",
+    "description": "Hồ bơi ngoài trời với không gian xanh."
+  },
+   {
+    "id": 150,
+    "image_url": "/images/hotels/the_hoi_an/1.jpg",
+    "alt_text": "Toàn cảnh khách sạn The Hoi An với hồ bơi lớn",
+    "description": "Một góc nhìn tổng thể của khách sạn The Hoi An với kiến trúc truyền thống và hồ bơi ngoài trời rộng lớn."
+  },
+  {
+    "id": 151,
+    "image_url": "/images/hotels/the_hoi_an/2.jpg",
+    "alt_text": "Phòng chờ sang trọng tại The Hoi An",
+    "description": "Không gian phòng chờ được thiết kế tinh tế với sofa êm ái và kệ sách lớn."
+  },
+  {
+    "id": 152,
+    "image_url": "/images/hotels/the_hoi_an/3.jpg",
+    "alt_text": "Khu vực bãi biển riêng của The Hoi An",
+    "description": "Bãi biển riêng với hàng dừa xanh mát và quầy bar nhỏ phục vụ đồ uống."
+  },
+  {
+    "id": 153,
+    "image_url": "/images/hotels/the_hoi_an/4.jpg",
+    "alt_text": "Phòng ngủ deluxe tại The Hoi An",
+    "description": "Phòng ngủ rộng rãi với giường cỡ lớn và nội thất gỗ ấm cúng."
+  },
+  {
+    "id": 154,
+    "image_url": "/images/hotels/the_hoi_an/5.jpg",
+    "alt_text": "Phòng ngủ hướng vườn tại The Hoi An",
+    "description": "Phòng ngủ được trang trí theo phong cách truyền thống, có tầm nhìn ra khu vườn xanh."
+  },
+  {
+    "id": 155,
+    "image_url": "/images/hotels/the_six_senses/1.jpg",
+    "alt_text": "Toàn cảnh bãi biển riêng của khu nghỉ dưỡng",
+    "description": "Cảnh quan từ trên cao của khu nghỉ dưỡng với bờ biển dài và hàng loạt biệt thự nằm dọc theo bờ biển."
+  },
+  {
+    "id": 156,
+    "image_url": "/images/hotels/the_six_senses/2.jpg",
+    "alt_text": "Hồ bơi vô cực với tầm nhìn biển",
+    "description": "Hồ bơi vô cực hướng ra biển, tạo cảm giác hòa mình vào thiên nhiên, đặc biệt đẹp vào lúc hoàng hôn."
+  },
+  {
+    "id": 157,
+    "image_url": "/images/hotels/the_six_senses/3.jpg",
+    "alt_text": "Phòng tắm sang trọng với bồn tắm lớn",
+    "description": "Không gian phòng tắm rộng rãi, hiện đại với bồn tắm độc lập và cửa kính lớn nhìn ra bên ngoài."
+  },
+  {
+    "id": 158,
+    "image_url": "/images/hotels/the_six_senses/4.jpg",
+    "alt_text": "Kiến trúc độc đáo của khu nghỉ dưỡng",
+    "description": "Toàn cảnh kiến trúc khu nghỉ dưỡng với hồ nước trong xanh và cây xanh bao quanh, tạo không gian yên bình."
+  },
+  {
+    "id": 159,
+    "image_url": "/images/hotels/the_six_senses/5.jpg",
+    "alt_text": "Biệt thự riêng tư với hồ bơi",
+    "description": "Một trong những biệt thự sang trọng của khu nghỉ dưỡng, có hồ bơi riêng và không gian nghỉ dưỡng thoáng đãng."
+  },
+
+
+    {
+    "id": 160,
+    "image_url": "/images/hotels/The_Reverie_Saigon/1.jpg",
+    "alt_text": "Khu vực hồ bơi ngoài trời khách sạn The Reverie Saigon",
+    "description": "Hồ bơi ngoài trời hiện đại với khu vực ghế nằm thư giãn, bao quanh là kiến trúc sang trọng của khách sạn."
+  },
+  {
+    "id": 161,
+    "image_url": "/images/hotels/The_Reverie_Saigon/2.jpg",
+    "alt_text": "Phòng khách sang trọng tại The Reverie Saigon",
+    "description": "Không gian phòng khách được thiết kế tinh xảo với nội thất cao cấp và phong cách tân cổ điển."
+  },
+  {
+    "id": 162,
+    "image_url": "/images/hotels/The_Reverie_Saigon/3.jpg",
+    "alt_text": "Nhà hàng buffet hiện đại tại The Reverie Saigon",
+    "description": "Khu vực nhà hàng buffet với quầy phục vụ đa dạng món ăn, thiết kế trần cao và ánh sáng ấn tượng."
+  },
+  {
+    "id": 163,
+    "image_url": "/images/hotels/The_Reverie_Saigon/4.jpg",
+    "alt_text": "Phòng ăn riêng biệt tại The Reverie Saigon",
+    "description": "Phòng ăn riêng tư với bàn ăn lớn, ghế bọc da sang trọng và đèn chùm cổ điển."
+  },
+  {
+    "id": 164,
+    "image_url": "/images/hotels/The_Reverie_Saigon/5.jpg",
+    "alt_text": "Khu vực cà phê ngoài trời tại The Reverie Saigon",
+    "description": "Quán cà phê với không gian ngoài trời, bàn ghế phong cách bistro, lý tưởng để thư giãn và ngắm cảnh đường phố."
+  }
+  , {
+    "id": 165,
+    "image_url": "/images/hotels/resort_amanoi/1.jpg",
+    "alt_text": "Khu vực hồ bơi chính tại Resort Amanoi",
+    "description": "Hồ bơi vô cực với tầm nhìn ra biển hoặc núi, tạo không gian thư giãn tuyệt đối tại Amanoi."
+  },
+  {
+    "id": 166,
+    "image_url": "/images/hotels/resort_amanoi/2.jpg",
+    "alt_text": "Biệt thự sang trọng với tầm nhìn đẹp tại Amanoi",
+    "description": "Không gian sống sang trọng trong biệt thự, được thiết kế mở để hòa mình vào thiên nhiên và chiêm ngưỡng cảnh đẹp."
+  },
+  {
+    "id": 167,
+    "image_url": "/images/hotels/resort_amanoi/3.jpg",
+    "alt_text": "Nhà hàng với kiến trúc độc đáo tại Amanoi",
+    "description": "Nhà hàng phục vụ ẩm thực cao cấp, với không gian kiến trúc độc đáo và tầm nhìn ấn tượng."
+  },
+  {
+    "id": 168,
+    "image_url": "/images/hotels/resort_amanoi/4.jpg",
+    "alt_text": "Khu vực spa hoặc phòng tập tại Amanoi",
+    "description": "Không gian yên tĩnh và thanh bình, có thể là khu vực spa hoặc phòng tập yoga với thiết kế hài hòa cùng thiên nhiên."
+  },
+  {
+    "id": 169,
+    "image_url": "/images/hotels/resort_amanoi/5.jpg",
+    "alt_text": "Lối đi hoặc khu vực cảnh quan tại Amanoi",
+    "description": "Cảnh quan xanh mát với lối đi được bố trí tinh tế, dẫn đến các khu vực nghỉ dưỡng và tiện ích của resort."
+  }
+]

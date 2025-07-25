@@ -1,0 +1,112 @@
+[
+  {
+    "room_type_id": 1,
+    "image_id": 50,
+    "is_thumbnail": true,
+    "display_order": 1
+  },
+  {
+    "room_type_id": 1,
+    "image_id": 51,
+    "is_thumbnail": false,
+    "display_order": 2
+  },
+  {
+    "room_type_id": 1,
+    "image_id": 52,
+    "is_thumbnail": false,
+    "display_order": 3
+  },
+  {
+    "room_type_id": 1,
+    "image_id": 53,
+    "is_thumbnail": false,
+    "display_order": 4
+  },
+
+  {
+    "room_type_id": 2,
+    "image_id": 54,
+    "is_thumbnail": true,
+    "display_order": 1
+  },
+  {
+    "room_type_id": 2,
+    "image_id": 55,
+    "is_thumbnail": false,
+    "display_order": 2
+  },
+  {
+    "room_type_id": 2,
+    "image_id": 56,
+    "is_thumbnail": false,
+    "display_order": 3
+  },
+  {
+    "room_type_id": 3,
+    "image_id": 57,
+    "is_thumbnail": true,
+    "display_order": 1
+  },
+  {
+    "room_type_id": 3,
+    "image_id": 58,
+    "is_thumbnail": false,
+    "display_order": 2
+  },
+  {
+    "room_type_id": 3,
+    "image_id": 59,
+    "is_thumbnail": false,
+    "display_order": 3
+  },
+
+  {
+    "room_type_id": 3,
+    "image_id": 60,
+    "is_thumbnail": false,
+    "display_order": 4
+  },
+  {
+    "room_type_id": 4,
+    "image_id": 61,
+    "is_thumbnail": true,
+    "display_order": 1
+  },
+  {
+    "room_type_id": 4,
+    "image_id": 62,
+    "is_thumbnail": false,
+    "display_order": 2
+  },
+  {
+    "room_type_id": 4,
+    "image_id": 63,
+    "is_thumbnail": false,
+    "display_order": 3
+  },
+  {
+    "room_type_id": 5,
+    "image_id": 64,
+    "is_thumbnail": true,
+    "display_order": 1
+  },
+  {
+    "room_type_id": 5,
+    "image_id": 65,
+    "is_thumbnail": false,
+    "display_order": 2
+  },
+  {
+    "room_type_id": 5,
+    "image_id": 66,
+    "is_thumbnail": false,
+    "display_order": 3
+  },
+  {
+    "room_type_id": 5,
+    "image_id": 67,
+    "is_thumbnail": false,
+    "display_order": 4
+  }
+]

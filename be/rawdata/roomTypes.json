@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Standard Room",
+    "description": "A comfortable room with essential amenities, suitable for single travelers or couples.",
+    "max_guests": 2,
+    "max_adults": 2,
+    "max_children": 0
+  },
+  {
+    "id": 2,
+    "name": "Deluxe Room",
+    "description": "A more spacious room with upgraded furnishings and additional amenities for enhanced comfort.",
+    "max_guests": 2,
+    "max_adults": 2,
+    "max_children": 0
+  },
+  {
+    "id": 3,
+    "name": "Suite",
+    "description": "A luxurious and expansive accommodation, typically featuring a separate living area and premium amenities.",
+    "max_guests": 4,
+    "max_adults": 2,
+    "max_children": 2
+  },
+  {
+    "id": 4,
+    "name": "Family Room",
+    "description": "Designed for families, offering ample space and often includes multiple beds or interconnected rooms.",
+    "max_guests": 4,
+    "max_adults": 2,
+    "max_children": 2
+  },
+  {
+    "id": 5,
+    "name": "Apartment",
+    "description": "A self-contained unit with a separate living area, bedroom(s), and often a kitchenette, ideal for extended stays.",
+    "max_guests": 4,
+    "max_adults": 2,
+    "max_children": 2
+  },
+  {
+    "id": 6,
+    "name": "Executive Room",
+    "description": "Tailored for business travelers, offering a dedicated workspace and access to executive lounge benefits.",
+    "max_guests": 2,
+    "max_adults": 2,
+    "max_children": 0
+  },
+  {
+    "id": 7,
+    "name": "Penthouse",
+    "description": "The most luxurious and largest accommodation, usually located on the top floor with panoramic views and exclusive services.",
+    "max_guests": 6,
+    "max_adults": 4,
+    "max_children": 2
+  },
+  {
+    "id": 8,
+    "name": "Studio",
+    "description": "A single room combining sleeping, living, and often kitchen facilities, perfect for individuals or short stays.",
+    "max_guests": 2,
+    "max_adults": 2,
+    "max_children": 0
+  }
+]

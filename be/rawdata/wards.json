@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Phường Bến Nghé",
+    "cities": "Hồ Chí Minh",
+    "image": "/images/ward/1.jpg"
+  },
+  {
+    "name": "Phường Phạm Ngũ Lão",
+    "cities": "Hồ Chí Minh",
+    "image": "/images/ward/1.jpg"
+  },
+  {
+    "name": "Phường Bến Thành",
+    "cities": "Hồ Chí Minh",
+    "image": "/images/ward/1.jpg"
+  },
+  {
+    "name": "Phường Nguyễn Thái Bình",
+    "cities": "Hồ Chí Minh",
+    "image": "/images/ward/1.jpg"
+  },
+  {
+    "name": "Phường Thảo Điền",
+    "cities": "Hồ Chí Minh",
+    "image": "/images/ward/1.jpg"
+  },
+  {
+    "name": "Phường An Phú",
+    "cities": "Hồ Chí Minh",
+    "image": "/images/ward/1.jpg"
+  },
+  {
+    "name": "Phường Tân Phong",
+    "cities": "Hồ Chí Minh",
+    "image": "/images/ward/1.jpg"
+  },
+  {
+    "name": "Phường Bình An",
+    "cities": "Hồ Chí Minh",
+    "image": "/images/ward/1.jpg"
+  },
+  {
+    "name": "Phường 13",
+    "cities": "Hồ Chí Minh",
+    "image": "/images/ward/1.jpg"
+  },
+  {
+    "name": "Phường 1",
+    "cities": "Hồ Chí Minh",
+    "image": "/images/ward/1.jpg"
+  }
+]
